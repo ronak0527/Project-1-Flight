@@ -2,7 +2,7 @@ import passenger_analysis as pa
 
 def main():
     # Provide the correct path to your CSV file
-    file_path = '/Users/ronnypatel/Desktop/School/CPS 3320/Project 1 Flight/Task 3/passengers.csv'
+    file_path = '/Users/ronnypatel/Desktop/School/CPS 3320/Project 1 Flight/passengers.csv'
     
     # Load the data
     try:
